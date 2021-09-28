@@ -32,6 +32,9 @@ jobs:
      
       
       - name: Main
+        env: 
+         AUTH: ${{ secrets.AUTH }} 
+
         run: |
           pwd
           chmod +x download_token.sh
