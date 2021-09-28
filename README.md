@@ -4,8 +4,11 @@ Retrieve Media Prima HLS manifest from Dailymotion.
 ## Info
 1. Media Prima locked this video as private , so the metadata trick won't work.
 2. Georestrict rule apply to these videos , you can only use a Malaysia IP to get the HLS manifest.
+3. Github Actions will download all channels's latest token everyday from my server in Malaysia and export to [here](https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8)
 
 ## How to use
+
+### Build yourself :
 1. Ensure PHP is installed on your web server , PHP 7.0 and above are recommended.
 2. Copy the PHP file to ur web server and simply run it.
 3. Create a valid M3U playlist and put this under the manifest URL
@@ -18,6 +21,10 @@ For example :
 https://xxxxx.com/8TV.php|Referer=https://www.dailymotion.com|User-Agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 ```
 4. An example of valid M3U playlist : [here](https://github.com/samleong123/tonton_dailymotion_php/blob/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8)
+
+### Directly use prebuilt playlist: 
+1. Insert the playlist URL [https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8](https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8) with any IPTV players you want (except OTT Navigator)
+
 
 ## Issue :
 You may create a issue if you experienced any problem. Im not very familiar with PHP but i will try to solve the problem.
