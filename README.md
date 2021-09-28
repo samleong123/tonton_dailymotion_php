@@ -24,3 +24,4 @@ You may create a issue if you experienced any problem. Im not very familiar with
 
 ## Credit :
 Special thanks to [@jvloo](https://github.com/jvloo) for fixing the PHP script!
+EPG source from : [weareblahs](https://github.com/weareblahs/epg)
