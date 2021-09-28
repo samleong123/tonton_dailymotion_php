@@ -23,7 +23,8 @@ https://xxxxx.com/8TV.php|Referer=https://www.dailymotion.com|User-Agent=Mozilla
 4. An example of valid M3U playlist : [here](https://github.com/samleong123/tonton_dailymotion_php/blob/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8)
 
 ### Directly use prebuilt playlist: 
-1. Insert the playlist URL [https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8](https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8) with any IPTV players you want (except OTT Navigator)
+1. Insert the playlist URL [https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8](https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8) with any IPTV players you want (**except OTT Navigator**)
+2. Use [https://github.com/samleong123/tonton_dailymotion_php/raw/main/tv3_didiktvkpm_8tv_tv9_EPG_ott.m3u8](https://github.com/samleong123/tonton_dailymotion_php/raw/main/tv3_didiktvkpm_8tv_tv9_EPG_ott.m3u8) for **OTT Navigator ONLY**.
 
 
 ## Issue :
