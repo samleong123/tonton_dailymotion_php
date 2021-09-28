@@ -16,8 +16,8 @@ cp 'DidikTVKPM.m3u8' 'm3u8/DidikTVKPM.m3u8'
 rm 'DidikTVKPM.m3u8'
 
 echo -e "\e[1;31m [INFO] Downloading 8TV \e[0m"
-8TV="https://demo.samsam123.tk/mediaprima_dailymotion/8TV.php?"$AUTH
-wget -O 8TV.m3u8 --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" $8TV
+TV8="https://demo.samsam123.tk/mediaprima_dailymotion/8TV.php?"$AUTH
+wget -O 8TV.m3u8 --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" $TV8
 cp '8TV.m3u8' 'm3u8/8TV.m3u8'
 rm '8TV.m3u8'
 
