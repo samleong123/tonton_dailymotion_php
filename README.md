@@ -17,6 +17,7 @@ For example :
 #EXTINF:-1 group-title="Media Prima" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png",8TV
 https://xxxxx.com/8TV.php|Referer=https://www.dailymotion.com|User-Agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 ```
+4. An example of valid M3U playlist : [here](https://github.com/samleong123/tonton_dailymotion_php/blob/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8)
 
 ## Issue :
 You may create a issue if you experienced any problem. Im not very familiar with PHP but i will try to solve the problem.
