@@ -25,3 +25,7 @@ You may create a issue if you experienced any problem. Im not very familiar with
 ## Credit :
 Special thanks to [@jvloo](https://github.com/jvloo) for fixing the PHP script!
 EPG source from : [weareblahs](https://github.com/weareblahs/epg)
+
+## Screenshot :
+![image](https://user-images.githubusercontent.com/58818070/135011735-495c02a3-1c97-400f-92e5-33d1862b4257.png)
+
