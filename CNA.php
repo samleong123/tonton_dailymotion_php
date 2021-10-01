@@ -1,7 +1,7 @@
 
 <?php
 
-$url = "https://www.dailymotion.com/embed/video/x7ptegr";
+$url = "https://www.dailymotion.com/player/metadata/video/x7ptegr?embedder=https%3A%2F%2Fwww.xtra.com.my%2Flive-tv&referer=&";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);

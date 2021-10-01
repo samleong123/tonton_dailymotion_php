@@ -1,6 +1,6 @@
 <?php
 
-$url = "https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar";
+$url = "https://www.dailymotion.com/player/metadata/video/kdFzSYy1bHxrForBrar?embedder=https%3A%2F%2Fwww.xtra.com.my%2Flive-tv&referer=&";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
