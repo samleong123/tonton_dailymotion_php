@@ -33,12 +33,6 @@ wget -O TV9.m3u8 --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) A
 cp 'TV9.m3u8' 'm3u8/TV9.m3u8'
 rm 'TV9.m3u8'
 
-echo -e "\e[1;31m [INFO] Downloading TV Aljazeera \e[0m"
-TVA="https://www.samsam123.name.my/mediaprima_dailymotion/TV_Aljazeera.php?"$AUTH
-wget -O TVA.m3u8 --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" $TVA
-cp 'TVA.m3u8' 'm3u8/TV_Aljazeera.m3u8'
-rm 'TVA.m3u8'
-
 echo -e "\e[1;31m [INFO] Generating Date & Time file in UTC+08 \e[0m"
 echo "`env TZ=UTC-08 date`" > "Date & Time UTC +08.txt"
 
