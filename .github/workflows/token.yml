@@ -37,6 +37,8 @@ jobs:
 
         run: |
           pwd
+          git remote add origin https://github.com/samleong123/tonton_dailymotion_php.git
+          git pull origin main --allow-unrelated-histories
           chmod +x download_token.sh
           ./download_token.sh
         
