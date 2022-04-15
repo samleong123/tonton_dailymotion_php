@@ -10,6 +10,17 @@ Retrieve Media Prima HLS manifest from Dailymotion.
 3. Georestrict rule apply to these videos , you can only use a Malaysia IP to get the HLS manifest.
 4. Github Actions will download all channels's latest token everyday from my server in Malaysia and export to [here](https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8)
 
+## Resolution 
+### Last Updated : 15/4/2022
+
+| Channels       | Resolution | Frame Rate | Bandwidth  | Platforms   |
+|----------------|------------|------------|------------|-------------|
+| TV3            | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
+| DidikTV KPM    | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
+| 8TV / 八度空间 | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
+| TV9            | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
+| Drama Sangat   | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
+
 ## How to use
 
 ### Build yourself :
@@ -45,5 +56,5 @@ Special thanks to [@jvloo](https://github.com/jvloo) for fixing the PHP script!
 EPG source from : [weareblahs](https://github.com/weareblahs/epg)
 
 ## Screenshot :
-![image](https://user-images.githubusercontent.com/58818070/135011735-495c02a3-1c97-400f-92e5-33d1862b4257.png)
+![image](https://user-images.githubusercontent.com/58818070/163546968-dcb6c5b8-1823-4388-90ab-55ef9c9dec34.png)
 
