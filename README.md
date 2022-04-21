@@ -48,8 +48,14 @@ https://xxxxx.com/8TV.php|Referer=https://www.dailymotion.com|User-Agent=Mozilla
 2. Use [https://github.com/samleong123/tonton_dailymotion_php/raw/main/tv3_didiktvkpm_8tv_tv9_EPG_ott.m3u8](https://github.com/samleong123/tonton_dailymotion_php/raw/main/tv3_didiktvkpm_8tv_tv9_EPG_ott.m3u8) for **OTT Navigator ONLY**.
 
 
-## Issue :
-You may create a issue if you experienced any problem. Im not very familiar with PHP but i will try to solve the problem.
+## Common Issue :
+1. 403 Error :
+- Please ensure you are using **Malaysia's ISP network** and **not other country's ISP network**. <br> Media Prima **geo-restricted these livestream to Malaysia only**. <br> **Use VPN if you need to watch outside of Malaysia**.
+- **Clear cache** of your IPTV apps and **reload / update** the playlist 
+- Use **tested IPTV players** (e.g: **Tivimate** & **OTT Navigator** & **Kodi**)
+
+2. Other Issue :
+- **Create a issue** and **NOT message me through my social media** about your problem
 
 ## Credit :
 Special thanks to [@jvloo](https://github.com/jvloo) for fixing the PHP script!
