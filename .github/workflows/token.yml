@@ -3,7 +3,7 @@ name: Retrieve Media Prima Dailymotion HLS manifest with token
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/12 * * *'
+    - cron: '0 0/1 * * *'
     
   pull_request:
     branches:
