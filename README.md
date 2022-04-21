@@ -51,7 +51,7 @@ https://xxxxx.com/8TV.php|Referer=https://www.dailymotion.com|User-Agent=Mozilla
 ## Common Issue :
 1. 403 Error :
 - Please ensure you are using **Malaysia's ISP network** and **not other country's ISP network**. <br> Media Prima **geo-restricted these livestream to Malaysia only**. <br> **Use VPN if you need to watch outside of Malaysia**.
-- **Clear cache** of your IPTV apps and **reload / update** the playlist 
+- **Clear cache** of your IPTV apps and **reload / update** the playlist. <br> This playlist will be **updated each 1 hour** via Github Actions. <br> Always **make sure to get the latest version** of the playlist in order to **get the validated token from Dailymotion server**.
 - Use **tested IPTV players** (e.g: **Tivimate** & **OTT Navigator** & **Kodi**)
 
 2. Other Issue :
