@@ -20,17 +20,5 @@ curl_close($curl);
 preg_match('/qualities":({.+?}),"/', $resp, $matches);
 $arr = json_decode($matches[1], true);
     $m3u8_raw = $arr['auto'][0]['url'];
-    $url = $m3u8_raw;
-
-$curl = curl_init($url);
-curl_setopt($curl, CURLOPT_URL, $url);
-curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-
-//for debug only!
-curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
-curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
-
-$resp = curl_exec($curl);
-curl_close($curl);
-echo $resp;
+  header("Location: ".$m3u8_raw);
 ?>
