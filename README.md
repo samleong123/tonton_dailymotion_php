@@ -9,7 +9,8 @@ Retrieve Media Prima HLS manifest from Dailymotion.
 
 3. Georestrict rule apply to these videos , you can only use a Malaysia IP to get the HLS manifest.
 4. Github Actions will download all channels's latest token everyday from my server in Malaysia and export to [here](https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8)
-5. **WARNING** : Dailymotion started to implement client's IP verification , TV3 is affected , so you might unable to watch TV3. <br> The only solution is watch it via [https://xtra.com.my/live-tv](https://xtra.com.my/live-tv) or use unifiTV
+5. ~~**WARNING** : Dailymotion started to implement client's IP verification , TV3 is affected , so you might unable to watch TV3. <br> The only solution is watch it via [https://xtra.com.my/live-tv](https://xtra.com.my/live-tv) or use unifiTV~~ <br>
+Use the latest playlist to resolve this issue. <br> The latest playlist will directly redirect you to Dailymotion HLS Manifest URL to generate the HLS bind with your IP Address (IPV4) <br> This redirection have a **rate limit** , you will get **429** if you hit the rate limit.
 
 ## Resolution 
 ### Last Updated : 15/4/2022
