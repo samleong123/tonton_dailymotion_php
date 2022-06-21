@@ -1,21 +1,9 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYR7NB96P4q1gsp9DAQkYXy7BuRJPJ9ivupDTG65rwIz)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
+<html>
+<head><title>500 Internal Server Error</title><script async src='/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?ts=1655784000'></script><script async src='/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?ts=1655784000'></script></head>
+<body bgcolor="white">
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx</center>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'71eab1f2ba3ba035',m:'eVP8THUfBC5kyTtQFXAUAU32cj4ZGmqICoyLDf.mSIY-1655793022-0-AS4W3B+sAQgM7HDJvwaQaBRtUYqj58fm6mSrl/zXLw3pWQWxE26OiaXim0h1DhV1r+6hXqkiJk0LTNzsx1GMrUkgj5hEWvN+rxzPpMyhroxKcSDiwlUGaG2uUuJ52xb8WKT0HvPigzj/n1tyb0R/m7uqFzNT/IWc3OUsaA8DltF9Lj2NCFAQGqPGLxJzem5OMWSb75wBRNqx7rIRNt7NkZDFr/Xqk8FmRjl8PclFyi/Rei6S6FvAfreMOUiU2CjoSbWKmLQKstRxnI2U2fKuNcx5amxyV4TqSTA703wG2OcAx8aneeW5kc0seGgdtV1lemUo/O+pLjdEfBqi6xejrBo=',s:[0x340ecede0d,0x67e4b9f3d3],u:'/cdn-cgi/challenge-platform/h/g'}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"71eab1f2ba3ba035","version":"2022.6.0","r":1,"token":"43883f9f83a341ec9a3ad1aabfab1034","si":100}' crossorigin="anonymous"></script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'71eab1f199ba8163',m:'UEmr9D_l6TLb4KwTSfpWMmWC6rgrs23pR.GxdnYjeXo-1655793022-0-AY1byl4WMhZ1QPBz1mXZmeCpXV3/D0bpkOL3U8MZBL+rEQJfGl9w96fCiLB5j1N0A2eiusgijmQeVjZtmgWLxwIj/PlVNY7naiWl6HGyPk0KRIjQcSiS1SaHbZ56zlHq5ZMqG8uXBlBOpXalxClf6ewXf/bHtleVj4yr2JhYw8RskUZbeFDAjJJ1ZNd2ljdbYw==',s:[0x3af4bf412c,0x989b4593f1],u:'/cdn-cgi/challenge-platform/h/g'}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"71eab1f199ba8163","version":"2022.6.0","r":1,"token":"43883f9f83a341ec9a3ad1aabfab1034","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
