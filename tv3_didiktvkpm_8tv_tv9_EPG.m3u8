@@ -14,3 +14,6 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Refer
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="Extra" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://assets.bharian.com.my/assets/logo-bharian-ogimage.png",Berita Harian x Buletin TV3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=beritaharian|Referer=https://www.dailymotion.com
