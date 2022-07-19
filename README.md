@@ -22,6 +22,7 @@ Use the latest playlist to resolve this issue. <br> The latest playlist will dir
 | 8TV / 八度空间 | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
 | TV9            | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
 | Drama Sangat   | 1920*1080  | 25         | 2 - 5 Mbps | Dailymotion |
+| Berita Harian x Buletin TV3 | 1920*1080 | 25 | 2 - 5 Mbps | Dailymotion |
 
 ## How to use
 
